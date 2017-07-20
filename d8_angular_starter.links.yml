@@ -1,0 +1,6 @@
+d8_angular_starter.admin:
+  title: 'D8 Angular Starter settings'
+  description: 'Adjust the settings for the D8 Angular starter module'
+  parent: system.admin_config_development
+  route_name: angular_demo.content
+  weight: 100

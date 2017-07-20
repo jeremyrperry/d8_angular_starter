@@ -1,0 +1,7 @@
+d8_angular_starter.content:
+  path: '/angular-starter'
+  defaults:
+    _controller: '\Drupal\d8_angular_starter\Controller\AngularStarterController::content'
+    _title: 'Angular Starter Demo'
+  requirements:
+    _permission: 'access content'

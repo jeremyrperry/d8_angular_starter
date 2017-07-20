@@ -1,0 +1,8 @@
+name: Drupal 8 Angular Starter
+description: Provides the basic infrastructure for developing with Angular 4.x in Drupal 8.
+package: Custom
+
+type: module
+core: 8.x
+libraries:
+  - d8_angular_starter/d8_angular_starter
